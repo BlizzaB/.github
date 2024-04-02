@@ -8,7 +8,7 @@
 <div align="center">  
 <br>
 
-  <h6>"We pour our hearts and souls into everything we create"</h6>
+  <h4>"We pour our hearts and souls into everything we create"</h4>
   <h6>(우리가 창조하는 모든 것에 온 마음과 영혼을 아낌없이 투자한다.)</h6>
 </div>
 
