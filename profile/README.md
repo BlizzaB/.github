@@ -16,16 +16,15 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://i.ibb.co/YQfp1x9/image.png" alt="image" border="0">
-  &nbsp
-  <img src="https://i.ibb.co/zhx0BD8/image.png" alt="image" border="0">
-  &nbsp
-  <img src="https://i.ibb.co/g9mS2t3/image.png" alt="image" border="0">
-  &nbsp
-  <img src="https://i.ibb.co/xm9dWxb/image.png" alt="image" border="0">
-  &nbsp
-  <img src="https://i.ibb.co/KFvWRzJ/image.png" alt="image" border="0">
-  
+  <table>
+    <tr colspan="2">
+      <td><img src="https://i.ibb.co/YQfp1x9/image.png" alt="image" border="0"></td>
+      <td><img src="https://i.ibb.co/zhx0BD8/image.png" alt="image" border="0"></td>
+      <td><img src="https://i.ibb.co/g9mS2t3/image.png" alt="image" border="0"></td>
+      <td><img src="https://i.ibb.co/xm9dWxb/image.png" alt="image" border="0"></td>
+      <td><img src="https://i.ibb.co/KFvWRzJ/image.png" alt="image" border="0"></td>
+    </tr>
+  </table>
 </div>
 
 <br>
